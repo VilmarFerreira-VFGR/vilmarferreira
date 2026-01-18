@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 👦🏻 Olá! Meu nome é Vilmar Ferreira
 
 👨🏻‍🎓 Sou estudante do curso de Licenciatura em Computação do Instituto Federal de Pernambuco, Campus Afogados da Ingazeira
